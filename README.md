@@ -19,16 +19,16 @@ Provided data contains the information about past loan applicants and whether th
 
 ## Conclusions
 - Conclusion 1:  Univariate analysis of orderded categorical variables show:
-  # 1. Applications with 5 years term is riskier than with 3 years term
-  # 2. Emp length and verification status does not have significant impact on risk
-  # 3. The higher the no. of delinquencies in last 2 years, higher is the risk
-  # 4. An optimum # of inquiries in last 6 months in best. Too many inquiries or too less inquireis are both signs of higher risk
+  1. Applications with 5 years term is riskier than with 3 years term
+  2. Emp length and verification status does not have significant impact on risk
+  3. The higher the no. of delinquencies in last 2 years, higher is the risk
+  4. An optimum # of inquiries in last 6 months in best. Too many inquiries or too less inquireis are both signs of higher risk
 - Conclusion 2 :
-  # 1. Applicant for 'Small business' loans are risky
-  # 2. Applicants from certain zip codes like '996xx' and '997xx' are risky
-  # 3. Applicants from certain state like 'AK','NE','SD' are risky
-  # 4. Applicants with 5 year term are riskier
-  # 5. Applicants with 6-7 inquiries in 2 years are riskier
+  1. Applicant for 'Small business' loans are risky
+  2. Applicants from certain zip codes like '996xx' and '997xx' are risky
+  3. Applicants from certain state like 'AK','NE','SD' are risky
+  4. Applicants with 5 year term are riskier
+  5. Applicants with 6-7 inquiries in 2 years are riskier
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
