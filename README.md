@@ -23,14 +23,22 @@ Provided data contains the information about past loan applicants and whether th
   2. Emp length and verification status does not have significant impact on risk
   3. The higher the no. of delinquencies in last 2 years, higher is the risk
   4. An optimum # of inquiries in last 6 months in best. Too many inquiries or too less inquireis are both signs of higher risk
-- Conclusion 2 :
+- Conclusion 2:
   1. Applicant for 'Small business' loans are risky
   2. Applicants from certain zip codes like '996xx' and '997xx' are risky
   3. Applicants from certain state like 'AK','NE','SD' are risky
   4. Applicants with 5 year term are riskier
   5. Applicants with 6-7 inquiries in 2 years are riskier
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Conclusion 3:
+  1. Applicants with purpose as 'education' and term '60 months' are riskier
+  2. Loans for small business are risky however, small business and 60 months term are even riskier
+  3. Applicants with purpose as 'education' and emp_length '3' are riskier
+  4. Applicant with purpose 'house' and emp_length of 6 years are riskier
+  5. Applicant with home_ownership as 'other' and purpose as 'small business' are riskier
+- Conclusion 4:
+  1. Applicants with 1 or more Bankruptcy or very low income (<25000 annually) or unemployed or when loan amount is more than 50% of the annual income are very riskier
+  2. Applicants with Low income (<100000 anually ) or when loan amount is between 25% to 50% of the
+annual income or loan purpose is for setting up Small Business and riskier
 
 ## Technologies Used
 1. Python
